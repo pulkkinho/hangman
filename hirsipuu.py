@@ -1,7 +1,7 @@
 #TIE-02100
 #13.2 Graafisen käyttöliittymän suunnitteleminen ja toteuttaminen
 #Henri Pulkkinen
-#oppnro 258141
+#oppnro 
 #huhtikuu 2017
 
 #Hirsipuupeli. Käyttäjä syöttää kirjaimia entry-kenttään
